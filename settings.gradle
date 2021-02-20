@@ -1,0 +1,3 @@
+include ':drawer'
+include ':app'
+rootProject.name = "PH Omnibus Election Code"
